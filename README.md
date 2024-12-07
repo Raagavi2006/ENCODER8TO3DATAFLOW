@@ -56,6 +56,7 @@ Developed by: Raagavi RM RegisterNumber: 24900010
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
+![DE Exp 5 wf](https://github.com/user-attachments/assets/8860cc87-0077-44e3-b3ea-a07306d3e848)
 
 
 
